@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="backgroud" >#ffe6f0ff</color>
+    <color name="litte">#64c6d4ef</color>
+    <color name="deep">#6456648f</color>
+    <color name="middle">#ffffffff</color>
+    
+</resources>
